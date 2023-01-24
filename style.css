@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(250, 230, 203);
+}
+
+header{
+    background-color: rgb(240, 215, 134);
+    text-align:center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:rgb(35, 48, 240)
+    text-align: justify;
+}
+
+footer{
+    text-align: right;
+}
